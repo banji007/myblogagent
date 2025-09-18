@@ -279,3 +279,29 @@ I0918 09:50:57.208643    1772 server.go:641] jsonrpc2: --> notif: telemetry/send
 I0918 09:51:57.188382    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 735 bytes>
 I0918 09:52:48.729817    1772 life_cycle.go:457] aiCharsReportEvery: compute and send aicharsreport metric
 I0918 09:52:57.210806    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 735 bytes>
+I0918 09:53:57.207331    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 734 bytes>
+I0918 09:54:57.202068    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 735 bytes>
+I0918 09:55:57.217159    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 734 bytes>
+I0918 09:56:57.206286    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 734 bytes>
+I0918 09:57:57.200611    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 735 bytes>
+I0918 09:58:57.189384    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 734 bytes>
+I0918 09:59:57.216587    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 734 bytes>
+I0918 10:00:57.193882    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 735 bytes>
+I0918 10:01:57.200322    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 735 bytes>
+I0918 10:02:48.729377    1772 life_cycle.go:457] aiCharsReportEvery: compute and send aicharsreport metric
+I0918 10:02:57.233692    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 735 bytes>
+I0918 10:03:57.192743    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 735 bytes>
+I0918 10:04:57.210948    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 733 bytes>
+I0918 10:05:57.218251    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 735 bytes>
+I0918 10:06:57.203572    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 734 bytes>
+I0918 10:07:57.192230    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 734 bytes>
+I0918 10:08:57.202517    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 734 bytes>
+I0918 10:09:57.237658    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 735 bytes>
+I0918 10:10:57.238440    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 733 bytes>
+I0918 10:11:57.231422    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 734 bytes>
+I0918 10:12:48.729154    1772 life_cycle.go:457] aiCharsReportEvery: compute and send aicharsreport metric
+I0918 10:12:57.222208    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 735 bytes>
+I0918 10:13:57.218424    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 734 bytes>
+I0918 10:14:57.229223    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 734 bytes>
+I0918 10:15:57.209162    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 735 bytes>
+I0918 10:16:57.234081    1772 server.go:641] jsonrpc2: --> notif: telemetry/sendEvents: <truncated 734 bytes>
